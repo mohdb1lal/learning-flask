@@ -48,3 +48,5 @@ Press CTRL+C to quit
 ^C%                                                                                                                       
 (venv) admin@MB-2 microblog % 
 ---
+export FLASK_APP=microblog.py
+---
